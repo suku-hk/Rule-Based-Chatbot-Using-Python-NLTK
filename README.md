@@ -39,13 +39,13 @@ The project demonstrates the fundamentals of Natural Language Processing (NLP), 
 Clone the repository
 
 ```bash
-git clone https://github.com/suku-hk/Rule-Based-Chatbot-Using-Python-NLTK.git
+git clone https://github.com/suku-hk/Rule-Based-Chatbot.git
 ```
 
 Move inside project
 
 ```bash
-cd Rule-Based-Chatbot-Using-Python-NLTK
+cd Rule-Based-Chatbot
 ```
 
 Install dependencies
