@@ -3,10 +3,15 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
 
-A rule-based chatbot built with Python and NLTK using NLP preprocessing and intent matching.
+A command-line rule-based chatbot built with Python and NLTK that uses NLP preprocessing and intent matching to generate intelligent responses.
+## 📷 Demo
+
+![Chatbot Demo](assets/chatbot.png)
 ## 📌 Project Overview
 
 This project is a command-line Rule-Based Chatbot developed using Python and the Natural Language Toolkit (NLTK). The chatbot processes user input through tokenization and stemming before matching it against predefined intent patterns to generate relevant responses.
+
+The chatbot uses tokenization, Porter Stemming, and keyword-based intent matching to identify user queries and return predefined responses.
 
 The project demonstrates the fundamentals of Natural Language Processing (NLP), text preprocessing, intent recognition, and conversational AI.
 
@@ -100,4 +105,4 @@ Chatbot: Goodbye!
 
 **Sushma**
 
-If you found this project useful, don't forget to ⭐ the repository.# Rule-Based-Chatbot-Using-Python-NLTK
+If you found this project useful, don't forget to ⭐ the repository.# Rule-Based-Chatbot
