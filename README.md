@@ -13,7 +13,10 @@ The chatbot uses tokenization, Porter Stemming, and keyword-based intent matchin
 
 The project demonstrates the fundamentals of Natural Language Processing (NLP), text preprocessing, intent recognition, and conversational AI.
 
-<img width="1470" height="956" alt="conversation" src="https://github.com/user-attachments/assets/f26bd266-0d68-480d-9e87-028330cb5ed2" />
+
+
+## 📸 Demo
+<img width="700" height="400" alt="conversation" src="https://github.com/user-attachments/assets/f26bd266-0d68-480d-9e87-028330cb5ed2" />
 
 
 ---
@@ -35,11 +38,27 @@ The project demonstrates the fundamentals of Natural Language Processing (NLP), 
 - Python
 - NLTK
 - Porter Stemmer
+- NLP
+- Command Line Interface
 
 ---
 
+## 📂 Project Structure
+
+Rule-Based-Chatbot
+│
+├── chatbot.py
+├── data.py
+├── requirements.txt
+├── README.md
+│
+└── assets
+    └── conversation.png
 
 
+
+
+---
 ## ⚙ Installation
 
 Clone the repository
@@ -106,4 +125,6 @@ Chatbot: Goodbye!
 
 **Sushma**
 
-If you found this project useful, don't forget to ⭐ the repository.# Rule-Based-Chatbot
+GitHub: https://github.com/suku-hk
+
+If you found this project useful, consider giving it a ⭐.
