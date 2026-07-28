@@ -16,7 +16,7 @@ The project demonstrates the fundamentals of Natural Language Processing (NLP), 
 
 
 ## 📸 Demo
-<img width="700" height="400" alt="conversation" src="https://github.com/user-attachments/assets/f26bd266-0d68-480d-9e87-028330cb5ed2" />
+<img width="450" height="360" alt="conversation" src="https://github.com/user-attachments/assets/f26bd266-0d68-480d-9e87-028330cb5ed2" />
 
 
 ---
