@@ -6,7 +6,8 @@
 A command-line rule-based chatbot built with Python and NLTK that uses NLP preprocessing and intent matching to generate intelligent responses.
 ## 📷 Demo
 
-![Chatbot Demo](assets/chatbot.png)
+![Chatbot Demo](assets/conversation.png<img width="1470" height="956" alt="conversation" src="https://github.com/user-attachments/assets/f26bd266-0d68-480d-9e87-028330cb5ed2" />
+)
 ## 📌 Project Overview
 
 This project is a command-line Rule-Based Chatbot developed using Python and the Natural Language Toolkit (NLTK). The chatbot processes user input through tokenization and stemming before matching it against predefined intent patterns to generate relevant responses.
